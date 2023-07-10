@@ -1,5 +1,5 @@
 # MIND
-Recommendation System based on the MIND news dataset. Link to the dataset: https://msnews.github.io/ 
+## Recommendation System based on the MIND news dataset. Link to the dataset: https://msnews.github.io/ 
 This repository contains a notebook demonstrating how to build a hybrid model on the small 2020 MIND news recommendation dataset. 
 The notebook is running in the Python 3.8 with Pytorch and Tensorflow installed azure environment. 
 The details for each step is documented on the top of each code. 
